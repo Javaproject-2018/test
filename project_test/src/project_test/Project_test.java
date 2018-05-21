@@ -20,6 +20,11 @@ public class Project_test {
         //21/05/18
         int J = 0;
                
+        
+        for(int i = 0; i < 10; i++){
+            System.out.println("I'm here");
+            
+        }
     }
     
 }
