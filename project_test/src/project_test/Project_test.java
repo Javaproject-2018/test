@@ -18,6 +18,8 @@ public class Project_test {
         // TODO code application logic here
         //loginscreen
         //21/05/18
+        int J = 0;
+               
     }
     
 }
